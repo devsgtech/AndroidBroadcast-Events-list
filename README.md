@@ -1,6 +1,8 @@
 # AndroidBroadcast-Events-list
 
 List of all Broadcast Intent actions. API 28
+
+
 android.accounts.LOGIN_ACCOUNTS_CHANGED
 android.accounts.action.ACCOUNT_REMOVED
 android.app.action.ACTION_PASSWORD_CHANGED
